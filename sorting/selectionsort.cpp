@@ -1,5 +1,7 @@
 # include <stdio.h>
 
+// 선택 정렬 : 가장 작은 값을 계속 앞으로 보내는 정렬 
+
 int main (void){
 	int i, j, min, index, temp;
 	
